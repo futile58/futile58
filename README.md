@@ -1,7 +1,10 @@
-welcome to this page, this is @somendroem
+**Welcome to the page** 
 
-language(s): java
+I'm @futile58, but you can call me Hally
 
-interested in: ??
+**Language(s):** Java (amateur)
 
-currently learning: ??
+**Currently learning:** Everything I can get my hands on!
+
+
+... *Omnia vincit amor, et nos cedamus amori*
