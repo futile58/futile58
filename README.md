@@ -1,6 +1,6 @@
 **Welcome to the page** 
 
-I'm @futile58, but you can call me Hally
+I'm @futile58, but call me Hally
 
 **Language(s):** Java (amateur)
 
